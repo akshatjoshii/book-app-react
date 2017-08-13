@@ -1,6 +1,6 @@
 # ReduxSimpleStarter
 
-Interested in learning [Redux](http://www.akshatjoshi.co.in)?
+Interested in learning [Redux](http://www.akshatjoshi.co.in){:target="_blank"}?
 
 ###About
 
