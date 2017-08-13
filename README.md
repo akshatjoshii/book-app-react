@@ -1,4 +1,4 @@
-# ReduxSimpleStarter
+# Book App React
 
 Interested in learning <a href="http://www.akshatjoshi.co.in" target="_blank">Redux</a>?
 
