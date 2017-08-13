@@ -1,8 +1,8 @@
 # ReduxSimpleStarter
 
-Interested in learning [Redux](http://www.akshatjoshi.co.in){:target="_blank"} <a href="example.com" target="_blank">New Tab</a>?
+Interested in learning <a href="http://www.akshatjoshi.co.in" target="_blank">Redux</a>?
 
-###About
+### About
 
 Tutorial Web App on React & Redux
 
