@@ -1,6 +1,6 @@
 # ReduxSimpleStarter
 
-Interested in learning [Redux](http://www.akshatjoshi.co.in){:target="_blank"}?
+Interested in learning [Redux](http://www.akshatjoshi.co.in){:target="_blank"} <a href="example.com" target="_blank">New Tab</a>?
 
 ###About
 
